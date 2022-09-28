@@ -1,4 +1,4 @@
-# Lantern fd
+# Lantern
 
 ![LanternLogo_Black](https://user-images.githubusercontent.com/24395592/160508807-1efcff5f-3e97-4a88-8e2b-cbc706ff1637.jpg)
 
